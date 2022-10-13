@@ -36,7 +36,7 @@
 
 <table border-style="none">
     <td>
-        <a href="mailto:arthur.lucas@edu.devinci.fr">
+        <a href="mailto:arthurlucas92@orange.fr">
             <img align="left" alt="" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png?raw=true" />
         </a>
         <a href="https://www.linkedin.com/in/arthur-lucas1/">
