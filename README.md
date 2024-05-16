@@ -14,7 +14,7 @@
     </td>
     <td>
         <b>
-            If you want to exchange with me about anything, talk or want to game together just ping me on my social networks 😉
+            FullStack web dev, available for your projects.
         </b>
     </td>  
 </table>
